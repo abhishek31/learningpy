@@ -1,4 +1,4 @@
-#! usr/lib/python2.7
+#!/usr/bin/env python
 
 """
 Python script to convert text files in a folder(and all  its subfolders) into pdf files.
