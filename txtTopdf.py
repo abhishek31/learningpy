@@ -2,7 +2,7 @@
 
 """
 Python script to convert text files in a folder(and all  its subfolders) into pdf files.
-Uses Reportlab for odf creation.
+Uses Reportlab for pdf creation.
 Usage : python txtTopdf.py -d <directory> -i <filename>
 
 """
